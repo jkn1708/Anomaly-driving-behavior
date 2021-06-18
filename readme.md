@@ -7,7 +7,9 @@
  anomal4 - anomal data set (4 lanes)
   
  Autoencoder_Anomaly_Detection : hspeed + stime
+ 
  Autoencoder_Anomaly_Detection1 : hspeed
+ 
  Autoencoder_Anomaly_Detection2 : stime
   
   
