@@ -8,11 +8,11 @@
 
 file:
 
- Autoencoder_Anomaly_Detection : hspeed + stime
+       Autoencoder_Anomaly_Detection : hspeed + stime
  
- Autoencoder_Anomaly_Detection1 : hspeed
+       Autoencoder_Anomaly_Detection1 : hspeed
  
- Autoencoder_Anomaly_Detection2 : stime
+       Autoencoder_Anomaly_Detection2 : stime
   
   
  
