@@ -8,6 +8,8 @@
 
 file:
 
+ - Anomal option -
+
        Autoencoder_Anomaly_Detection : hspeed + stime
  
        Autoencoder_Anomaly_Detection1 : hspeed
