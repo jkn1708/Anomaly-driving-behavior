@@ -2,9 +2,9 @@
  
  data : aimsun 2.0 simulater, sqlite3 - 4 lanes basis
  
-         base4 - nomal data set (4 lanes)
+         base4.sqlite - nomal data set (4 lanes)
  
-         anomal4 - anomal data set (4 lanes)
+         anomal4.sqlite - anomal data set (4 lanes)
 
 file:
 
