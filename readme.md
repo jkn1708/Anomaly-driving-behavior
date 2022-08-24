@@ -8,7 +8,7 @@
 
 file:
 
- - Anomal option -
+ - Anomal option 
 
        Autoencoder_Anomaly_Detection : hspeed + stime
  
@@ -17,9 +17,6 @@ file:
        Autoencoder_Anomaly_Detection2 : stime
   
   
-python 
-  import pandas as pd
-import numpy as np
-from sklearn
- 
+## python library ## 
+pandas, numpy, sklearn, keras, tensorflow
 
