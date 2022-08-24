@@ -1,4 +1,4 @@
- Anomaly driving behavior
+ ### Anomaly driving behavior ###
  
  data : aimsun 2.0 simulater, sqlite3 - 4 lanes basis
  
@@ -17,5 +17,9 @@ file:
        Autoencoder_Anomaly_Detection2 : stime
   
   
+python 
+  import pandas as pd
+import numpy as np
+from sklearn
  
 
